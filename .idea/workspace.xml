@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a976665-6879-436f-b254-98eef9ec64b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1xPHudJ3W7lZvDfodONFaRuqLs3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../appkit-vscode/js/script.js" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="E:\Programming\App\Appkit\appkit-webstorm\node_modules" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.splitter.proportion" value="0.23523422" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Programming\App\Appkit\appkit-webstorm\src\scss\sections\header" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a976665-6879-436f-b254-98eef9ec64b9" name="Default Changelist" comment="" />
+      <created>1630250026783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630250026783</updated>
+      <workItem from="1630250031077" duration="4598000" />
+      <workItem from="1630394449048" duration="9087000" />
+      <workItem from="1630406839365" duration="34000" />
+      <workItem from="1630408461950" duration="6020000" />
+      <workItem from="1630414530722" duration="71000" />
+      <workItem from="1630414619283" duration="377000" />
+      <workItem from="1630419186964" duration="1436000" />
+      <workItem from="1630421180517" duration="2316000" />
+      <workItem from="1630739409674" duration="8682000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="501" key="#Stylelint" timestamp="1630414078875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="501" key="#Stylelint/0.0.1920.1040@0.0.1920.1040" timestamp="1630414078875" />
+    <state x="717" y="436" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1630400961426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="436" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1630400961426" />
+    <state x="690" y="359" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1630740406515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="359" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630740406515" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1630749842359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1630749842359" />
+    <state x="463" y="209" key="SettingsEditor" timestamp="1630749950415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="209" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1630749950415" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+.nav-burger {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 5px;
+  background-color: #000000;
+
+  .nav-burger_underline {
+    border-radius: 5px;
+    height: 5px;
+    background-color: #fff;
+    width: 70%;
+  }
+}

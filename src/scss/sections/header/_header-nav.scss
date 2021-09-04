@@ -1,0 +1,69 @@
+.header-nav {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+  height: 60px;
+
+
+  .nav-logo {
+
+    .logo-link {
+      display: flex;
+      align-items: center;
+
+      .logo__name {
+        font-size: 26px;
+        color: #ffffff;
+        padding-left: 10px;
+
+        span {
+          font-weight: 800;
+        }
+      }
+    }
+
+  }
+
+  .nav-links {
+    display: none;
+    flex-flow: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: gray;
+
+    position: absolute;
+    left: 0;
+    top: 60px;
+    width: 100%;
+    height: 100%;
+
+    @include breakpoint($tablet){
+      flex-flow: row;
+      justify-content: flex-end;
+      position: static;
+      background-color: inherit;
+
+      .nav-links__dest {
+        color: #ffffff;
+        padding-left: 25px;
+        @include breakpoint($large_desktop){
+          padding-left: 40px;
+        }
+      }
+    }
+  }
+
+  .nav-burger {
+    @include breakpoint($tablet){
+      display: none;
+    }
+  }
+
+  .active {
+    display: flex;
+  }
+
+}
