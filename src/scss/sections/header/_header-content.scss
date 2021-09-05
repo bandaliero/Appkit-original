@@ -1,0 +1,35 @@
+.header-content {
+  display: flex;
+  flex-flow: row wrap;
+
+  width: 100%;
+  padding-top: 50px;
+
+  .content-description {
+    width: 290px;
+    flex-grow: 1;
+
+    .content-description__title {
+      color: #ffffff;
+    }
+
+    .content-description__paragraph {
+      color: #ffffff;
+      padding-top: 20px;
+    }
+
+    .content-description__button {
+      margin: 30px 0;
+    }
+  }
+
+  .content-icon {
+    width: 290px;
+    flex-grow: 1;
+    .content-icon__mac {
+      max-width: 100%;
+      height: auto;
+      object-fit: cover;
+    }
+  }
+}

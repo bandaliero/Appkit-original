@@ -7,6 +7,10 @@
 //Base styles
 @import "base/grid";
 @import "base/burger";
+@import "base/button-main";
 
 //Sections
 @import "sections/header/header-nav";
+@import "sections/header/header-content";
+
+@import "sections/main/main-about";

@@ -20,9 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a976665-6879-436f-b254-98eef9ec64b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/styles.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/base/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/base/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/sections/header/_header-nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/sections/header/_header-nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +86,9 @@
       <workItem from="1630414619283" duration="377000" />
       <workItem from="1630419186964" duration="1436000" />
       <workItem from="1630421180517" duration="2316000" />
-      <workItem from="1630739409674" duration="8682000" />
+      <workItem from="1630739409674" duration="9364000" />
+      <workItem from="1630760282888" duration="1301000" />
+      <workItem from="1630830250646" duration="14986000" />
     </task>
     <servers />
   </component>

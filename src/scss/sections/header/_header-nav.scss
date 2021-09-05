@@ -32,7 +32,7 @@
     flex-flow: column;
     justify-content: space-around;
     align-items: center;
-    background-color: gray;
+    background-color: #afc3c8;
 
     position: absolute;
     left: 0;
@@ -41,6 +41,7 @@
     height: 100%;
 
     @include breakpoint($tablet){
+      display: flex;
       flex-flow: row;
       justify-content: flex-end;
       position: static;
