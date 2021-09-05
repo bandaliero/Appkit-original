@@ -49,9 +49,13 @@
 
       .nav-links__dest {
         color: #ffffff;
-        padding-left: 25px;
+        margin-left: 25px;
         @include breakpoint($large_desktop){
-          padding-left: 40px;
+          margin-left: 40px;
+        }
+
+        &:hover {
+          color: #67d6d3;
         }
       }
     }

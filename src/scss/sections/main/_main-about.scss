@@ -1,0 +1,52 @@
+.main-about {
+  padding: 50px 0;
+
+  .about-content {
+    text-align: center;
+
+    .about-content__title {
+      font-size: 28px;
+      font-weight: 300;
+    }
+
+    .about-content__paragraph {
+      padding: 20px 0;
+    }
+  }
+  .about-icons {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+
+    width: 100%;
+    height: 270px;
+    padding-bottom: 20px;
+  }
+
+  .about-devices {
+    display: flex;
+    flex-flow: row wrap;
+
+    .devices-container {
+      width: 200px;
+      margin: 20px 0;
+      padding: 0 30px;
+      flex-grow: 1;
+      text-align: center;
+
+      .devices-container__icon {
+        max-width: 100%;
+        height: 150px;
+      }
+      .devices-container__title {
+        padding-top: 15px;
+        color: #67d6d3;
+        line-height: 24px;
+      }
+      .devices-container__paragraph {
+        padding-top: 15px;
+      }
+    }
+  }
+}
