@@ -32,7 +32,7 @@
     flex-flow: column;
     justify-content: space-around;
     align-items: center;
-    background-color: #afc3c8;
+    background-color: #575c5c;
 
     position: absolute;
     left: 0;
@@ -58,6 +58,9 @@
           color: #67d6d3;
         }
       }
+    }
+    .nav-links__dest {
+      color: #ffffff;
     }
   }
 

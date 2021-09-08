@@ -121,7 +121,7 @@ body {
     flex-flow: column;
     justify-content: space-around;
     align-items: center;
-    background-color: #afc3c8;
+    background-color: #575c5c;
     position: absolute;
     left: 0;
     top: 60px;
@@ -143,6 +143,8 @@ body {
     @media only screen and (min-width: 768px) {
           .header-nav .nav-links .nav-links__dest:hover {
             color: #67d6d3; } }
+    .header-nav .nav-links .nav-links__dest {
+      color: #ffffff; }
   @media only screen and (min-width: 768px) {
     .header-nav .nav-burger {
       display: none; } }
@@ -376,3 +378,47 @@ body {
       .main-features .features-content .features-content__img img {
         max-width: 100%;
         height: auto; }
+
+.main-team {
+  background-color: #dcebeb;
+  padding: 70px 0 40px 0; }
+  @media only screen and (min-width: 992px) {
+    .main-team .container {
+      width: 750px; } }
+  .main-team .container .team-head {
+    text-align: center; }
+    .main-team .container .team-head .team-head__title {
+      font-size: 36px; }
+    .main-team .container .team-head .team-head__subtitle {
+      margin-top: 15px; }
+    .main-team .container .team-head .team-head__text {
+      margin: 40px 0;
+      font-size: 16px; }
+  @media only screen and (min-width: 768px) {
+    .main-team .container .team-profile {
+      display: flex;
+      flex-direction: row; } }
+  .main-team .container .team-profile .team-profile-member {
+    text-align: center;
+    background-color: #fff;
+    padding: 30px;
+    margin: 0 10px 30px 10px;
+    border-radius: 10px; }
+    .main-team .container .team-profile .team-profile-member .member-img .member-img__item {
+      width: 125px;
+      height: 115px; }
+    .main-team .container .team-profile .team-profile-member .member-name {
+      font-weight: 600;
+      font-size: 22px;
+      margin-top: 15px;
+      color: #40babd; }
+    .main-team .container .team-profile .team-profile-member .member-description {
+      margin-top: 10px; }
+    .main-team .container .team-profile .team-profile-member .member-icons {
+      margin: 20px 0; }
+      .main-team .container .team-profile .team-profile-member .member-icons .member-icons__item {
+        width: 40px;
+        height: 40px;
+        padding-left: 10px; }
+        .main-team .container .team-profile .team-profile-member .member-icons .member-icons__item:first-child {
+          padding-left: 0; }

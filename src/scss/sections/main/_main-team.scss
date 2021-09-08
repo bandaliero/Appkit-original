@@ -1,0 +1,66 @@
+.main-team {
+  background-color: #dcebeb;
+  padding: 70px 0 40px 0;
+  .container {
+    @include breakpoint($desktop){
+      width: 750px;
+    }
+    .team-head {
+      text-align: center;
+
+      .team-head__title {
+        font-size: 36px;
+      }
+
+      .team-head__subtitle {
+        margin-top: 15px;
+      }
+      .team-head__text {
+        margin: 40px 0;
+        font-size: 16px;
+      }
+    }
+
+    .team-profile {
+      @include breakpoint($tablet){
+        display: flex;
+        flex-direction: row;
+      }
+      .team-profile-member {
+        text-align: center;
+        background-color: #fff;
+        padding: 30px;
+        margin: 0 10px 30px 10px;
+        border-radius: 10px;
+        .member-img {
+
+          .member-img__item {
+            width: 125px;
+            height: 115px;
+          }
+        }
+        .member-name {
+          font-weight: 600;
+          font-size: 22px;
+          margin-top: 15px;
+          color: #40babd;
+        }
+        .member-description{
+          margin-top: 10px;
+        }
+        .member-icons{
+          margin: 20px 0;
+
+          .member-icons__item {
+            width: 40px;
+            height: 40px;
+            padding-left: 10px;
+            &:first-child {
+              padding-left: 0;
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -24,6 +24,7 @@
       <change beforePath="$PROJECT_DIR$/src/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/styles.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/sections/header/_header-nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/sections/header/_header-nav.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +90,7 @@
       <workItem from="1630859920803" duration="4140000" />
       <workItem from="1630913208886" duration="595000" />
       <workItem from="1631007404090" duration="6340000" />
-      <workItem from="1631085794594" duration="6985000" />
+      <workItem from="1631085794594" duration="13741000" />
     </task>
     <servers />
   </component>
