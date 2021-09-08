@@ -326,3 +326,53 @@ body {
         margin-top: 25px;
         position: relative;
         color: #000; }
+
+.main-features {
+  padding: 70px 0; }
+  .main-features .features-head {
+    padding-bottom: 70px;
+    text-align: center; }
+    .main-features .features-head .features-head__title {
+      font-size: 36px;
+      margin-bottom: 15px; }
+  .main-features .features-content {
+    display: flex;
+    flex-flow: column; }
+    @media only screen and (min-width: 768px) {
+      .main-features .features-content {
+        flex-flow: row-reverse; } }
+    .main-features .features-content .features-list {
+      text-align: center; }
+      @media only screen and (min-width: 768px) {
+        .main-features .features-content .features-list {
+          width: 50%;
+          padding-top: 10px; } }
+      .main-features .features-content .features-list .features-list__item {
+        list-style-type: none;
+        margin-bottom: 12px; }
+        @media only screen and (min-width: 768px) {
+          .main-features .features-content .features-list .features-list__item {
+            margin-bottom: 18px; } }
+        @media only screen and (min-width: 1170px) {
+          .main-features .features-content .features-list .features-list__item {
+            margin-bottom: 28px; } }
+        .main-features .features-content .features-list .features-list__item .features-list__link {
+          color: #000000;
+          font-size: 16px; }
+          .main-features .features-content .features-list .features-list__item .features-list__link:hover {
+            color: #40babd; }
+        .main-features .features-content .features-list .features-list__item .features-list__link_color {
+          color: #40babd; }
+        .main-features .features-content .features-list .features-list__item .material-icons {
+          margin-right: 10px;
+          font-size: 16px; }
+    .main-features .features-content .features-content__img {
+      width: 100%;
+      height: auto;
+      text-align: center; }
+      @media only screen and (min-width: 768px) {
+        .main-features .features-content .features-content__img {
+          width: 50%; } }
+      .main-features .features-content .features-content__img img {
+        max-width: 100%;
+        height: auto; }
