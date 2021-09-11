@@ -1,0 +1,20 @@
+.footer {
+  background: #26282c;
+  padding: 15px 0;
+  .footer-content {
+    text-align: center;
+    color: #ffffff;
+    font-size: 15px;
+
+    .footer__material-icons {
+      position: relative;
+      top: 4px;
+      color: red;
+      font-size: 15px;
+    }
+
+    .footer-content__developer {
+      color: #40babd;
+    }
+  }
+}

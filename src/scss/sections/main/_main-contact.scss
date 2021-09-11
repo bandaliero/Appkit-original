@@ -1,0 +1,22 @@
+.main-contact {
+  background: #494d55 url("../images/map.png") no-repeat center center;
+  text-align: center;
+  padding: 100px 0;
+  .container {
+    @include breakpoint($tablet){
+      width: 750px;
+    }
+    .main-contact__title {
+      font-size: 36px;
+      font-weight: 600;
+      color: #ffffff;
+    }
+    .main-contact__text {
+      margin-top: 30px;
+      color: #ffffff;
+    }
+    .main-contact__button {
+      margin: 60px auto 0 auto;
+    }
+  }
+}

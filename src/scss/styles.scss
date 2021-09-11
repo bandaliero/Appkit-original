@@ -10,11 +10,18 @@
 @import "base/button-main";
 
 //Sections
+
+//***HEADER***
 @import "sections/header/header-nav";
 @import "sections/header/header-content";
 
+//***MAIN****
 @import "sections/main/main-about";
 @import "sections/main/main-testimonials";
 @import "sections/main/main-features";
 @import "sections/main/main-team";
 @import "sections/main/main-pricing";
+@import "sections/main/main-contact";
+
+//***FOOTER***
+@import "sections/footer/footer";
