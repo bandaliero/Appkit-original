@@ -1,6 +1,9 @@
 .footer {
   background: #26282c;
   padding: 15px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   .footer-content {
     text-align: center;
     color: #ffffff;

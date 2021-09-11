@@ -18,6 +18,7 @@
 
     .pricing-banner {
       padding: 0 20px;
+
       @include breakpoint($tablet){
         display: flex;
         flex-direction: row;

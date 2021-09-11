@@ -1,6 +1,8 @@
 .main-team {
   background-color: #dcebeb;
   padding: 70px 0 40px 0;
+
+
   .container {
     @include breakpoint($desktop){
       width: 750px;
