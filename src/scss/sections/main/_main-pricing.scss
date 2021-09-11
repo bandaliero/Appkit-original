@@ -1,0 +1,98 @@
+.main-pricing {
+  padding: 70px 0;
+  .container {
+    @include breakpoint($desktop){
+      width: 990px;
+    }
+    .pricing-head {
+      text-align: center;
+
+      .pricing-head__title {
+        font-size: 38px;
+      }
+      .pricing-head__subtitle {
+        margin: 15px 0 50px 0;
+        font-size: 16px;
+      }
+    }
+
+    .pricing-banner {
+      padding: 0 20px;
+      @include breakpoint($tablet){
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+      }
+
+      .banner-content {
+        border-radius: 8px;
+        margin-bottom: 20px;
+        text-align: center;
+        padding: 70px 10px;
+        @include breakpoint($tablet){
+          margin-left: 30px;
+          &:first-child {
+            margin-left: 0;
+          }
+        }
+
+        .banner-content__title {
+          font-size: 18px;
+          font-weight: 600;
+          color: #ffffff;
+        }
+        .banner-content__coast {
+          display: inline-block;
+          font-size: 44px;
+          color: #ffffff;
+          margin-top: 30px;
+          position: relative;
+
+          span {
+            font-size: 22px;
+            color: #575c5c;
+            position: absolute;
+            top: 0;
+            left: -15px;
+          }
+        }
+
+        .banner-content__text {
+          margin: 20px 0;
+          font-size: 16px;
+          color: #ffffff;
+        }
+
+        .banner-content__license {
+          margin-bottom: 40px;
+          a {
+            color: #000;
+            font-size: 16px;
+          }
+        }
+
+        .banner-content__button {
+          border-radius: 5px;
+          padding: 10px 30px;
+          font-weight: 600;
+          background: rgba(0, 0, 0, 0.2);
+          color: #ffffff;
+          &:hover{
+            background: rgba(0, 0, 0, 0.41);
+          }
+        }
+
+      }
+
+      .banner-content_green {
+        background-color: #75c181;
+      }
+      .banner-content_blue {
+        background-color: #58bbee;
+      }
+      .banner-content_orange {
+        background-color: #F8A13F;
+      }
+    }
+  }
+}
