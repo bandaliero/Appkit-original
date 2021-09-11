@@ -58,7 +58,7 @@ body {
   width: 100%;
   height: auto; }
 
-.main * {
+.main > div {
   flex-grow: 1; }
 
 .footer {

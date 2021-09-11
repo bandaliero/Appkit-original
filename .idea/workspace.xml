@@ -21,12 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a976665-6879-436f-b254-98eef9ec64b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/base/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/base/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/sections/main/_main-about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/sections/main/_main-about.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/sections/main/_main-contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/sections/main/_main-contact.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../TEST/src" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="E:\Programming\App\Appkit\appkit-webstorm\node_modules" />
@@ -98,7 +92,8 @@
       <workItem from="1631277959323" duration="596000" />
       <workItem from="1631345209678" duration="10839000" />
       <workItem from="1631362031614" duration="472000" />
-      <workItem from="1631365735373" duration="910000" />
+      <workItem from="1631365735373" duration="1360000" />
+      <workItem from="1631368389585" duration="20000" />
     </task>
     <servers />
   </component>
@@ -130,10 +125,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="359" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630740406515" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1631362500900">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1631368407080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1631362500900" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1631368407080" />
     <state x="463" y="209" key="SettingsEditor" timestamp="1630749950415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
