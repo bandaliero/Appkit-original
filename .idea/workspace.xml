@@ -21,14 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="8a976665-6879-436f-b254-98eef9ec64b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/styles.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/base/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/base/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/sections/footer/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/sections/footer/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/sections/main/_main-pricing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/sections/main/_main-pricing.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/sections/main/_main-team.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/sections/main/_main-team.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/sections/main/_main-about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/sections/main/_main-about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/sections/main/_main-contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/sections/main/_main-contact.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +96,9 @@
       <workItem from="1631186992682" duration="5046000" />
       <workItem from="1631202618469" duration="1419000" />
       <workItem from="1631277959323" duration="596000" />
-      <workItem from="1631345209678" duration="9066000" />
+      <workItem from="1631345209678" duration="10839000" />
+      <workItem from="1631362031614" duration="472000" />
+      <workItem from="1631365735373" duration="910000" />
     </task>
     <servers />
   </component>
@@ -130,10 +130,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="359" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1630740406515" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1630749842359">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1631362500900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1630749842359" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1631362500900" />
     <state x="463" y="209" key="SettingsEditor" timestamp="1630749950415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
